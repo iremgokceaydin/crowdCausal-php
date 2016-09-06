@@ -1,0 +1,90 @@
+{
+	"trainingPosts" : {
+		"type_1": [
+			{
+				"id" : 0,
+				"post":"In recent decades, cities have grown so large that now about 50% of the Earth's population lives in urban areas. There are several reasons for this occurrence. The increasing industrialization of the nineteenth century resulted in the creation of many factory jobs, which tended to be located in cities. These jobs, with their promise of a better material life, attracted many people from rural areas.", 
+				"chunks": [
+					{
+						"highlights": ["increasing industrialization","factory jobs", "population lives in urban areas"],
+						"text": "Factory jobs attracted people to live in urban areas."
+					}
+				]
+			},
+			{
+				"id" : 1,
+				"post":"Letting alcohol take control over your life has many negative effects on a person and the people around them. One important effect is the damage you can do to your body. Drinking can lead to severe illness and even eventual death; some health consequences to consider might be liver disease, kidney failure and, for pregnant women, the loss of their unborn child. Another detriment is that an addiction could lead to drinking and driving; possibly causing a fatal car accident for either yourself and/or an innocent by stander. Another concern to consider is the relationships alcohol can destroy.", 
+				"chunks": [
+					{
+						"highlights": ["alcohol","severe illness"],
+						"text": "Alcohol may cause severe illnessses."
+					},
+					{
+						"highlights": ["alcohol", "addiction", "fatal car accident"],
+						"text": "Drinking while driving may causes accidents."
+					}
+				]
+			}
+		],
+		"type_2": [
+			{
+				"id" : 0,
+				"post":"The lack of rain and snow has horrible effects on farmers. with no rain their land dries up, and it is very difficult to grow anything. When the crops fail, the farmers haven't anay choice but to get a second job in order to make the money they need. Farmong is a full time job and with a second job, farmers are overworked, stressed and even depressed. Many farmers end up selling their land.", 
+				"chunks": [
+					{
+						"highlights": ["The lack of rain and snow","farmers", "difficult to grow"],
+						"text": "Farmers have difficulties growing their products if rain and snow is not enough."
+					},
+					{
+						"highlights": ["farmers","second job", "overworked, stressed and even depressed"],
+						"text": "Having another job is hard for farmers."
+					}
+				]
+			},
+			{
+				"id" : 1,
+				"post":"Underage drinking has many costly consequences adolescents don’t consider before making the decision to drink. One costly affect is a criminal record that never goes away, unless you happen to be under the age of eighteen. With a criminal record job application may be hindered or employers may see that the other candidate has a clear record; therefore the employer may choose the other applicant. Other results are the penalties they receive during court appearances. Depending on the severity of the crime punishment could include, expensive fines, drivers license revocation, community service, and if you happen to be a repeat offender, jail time. ", 
+				"chunks": [
+					{
+						"highlights": ["Underage drinking","criminal record","job application"],
+						"text": "Teenages should not dring due to it is a threat for their career."
+					},
+					{
+						"highlights": ["Drinking","penalties", "court", "expensive fines, drivers license revocation, community service"],
+						"text": "Decisions of court for underage drinking may include important penalties like fines and license revocation."
+					}
+				]
+			}
+		],
+		"type_3": [
+			{
+				"id" : 0,
+				"post":"For many teenagers, there are numerous negative factors that can lead them to give up on their education and drop out of school. The first cause is that many teenagers lack positive role models in their lives. The lack of an encouraging adult in their lives can cause them to think negatively about themselves and it does not allow them to live up to their full potential. Also, the lack of a positive role model can cause them to get involved with the wrong kind of people and activities.", 
+				"chunks": [
+					{
+						"highlights": ["teenagers","give up on their education", "lack positive role models"],
+						"text": "The presence of a good role model may effect teenagers's education purposes positively."
+					},
+					{
+						"highlights": ["teenagers","wrong kind of people and activities", "positive role model"],
+						"text": "Having a positive role model may restrain teenagers from involving wrong activities."
+					}
+				]
+			},
+			{
+				"id" : 1,
+				"post":"Each day through the use of genetic engineering, food are being artificially modified and introduced  to the public for consumption. Supporters of these genetically-engineered foods claim that the use of genetic engineering produces a more nutritional, better looking, economical, and better tasting product. Despite these strong claims in favor of genetically-altered foods, there is strong opposition against them. Genetically-altered foods can contribute to health problems among consumers because their effects on the human body are currently unknown, they can cause fatal and crippling effects due to allergic reactions, they promote more disease-resistant pests, and they increase the spread of diseases across species barriers.", 
+				"chunks": [
+					{
+						"highlights": ["genetic engineering","artificially modified","food", "more nutritional"],
+						"text": "Generically altered food are more nutritional."
+					},
+					{
+						"highlights": ["genetically-altered foods","health problems", "their effects on the human body are currently unknown"],
+						"text": "Due to unknow effects on human body, GMO may cause fatal health problems."
+					}
+				]
+			}
+		]
+	}
+}

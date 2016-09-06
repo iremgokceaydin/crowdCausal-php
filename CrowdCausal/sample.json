@@ -1,0 +1,17 @@
+{
+	"type": 0,
+	"posts" : [
+		{"post":"POST1", "chunks": [
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"},
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"},
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"},
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"}
+		]},
+		{"post":"POST2", "chunks": [
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"},
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"},
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"},
+			{"highlights": ["HIGHLIGHT1","HIGHLIGHT2"],"text": "TEXT"}]
+		}
+	]
+}
